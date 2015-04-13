@@ -7,12 +7,12 @@
 <ul><li>Créer login</li>
 <li>Se loguer</li>
 <li>Choisir thème/niv. diff./Mode</li>
-<li>Voir les questions <em>prioritaire</em></li>
-<li>Répondre aux questions <em>prioritaire</em></li>
+<li>Voir les questions <em>(prioritaire)</em></li>
+<li>Répondre aux questions <em>(prioritaire)</em></li>
 <li>Voir score</li>
 <li>Voir réponses</li></ul>
 <li>Visiteur</li>
 <ul><li>Choisir thème/niv. diff.</li>
-<li>Voir les questions <em>prioritaire</em></li>
-<li>Répondre aux questions <em>prioritaire</em></li>
+<li>Voir les questions <em>(prioritaire)</em></li>
+<li>Répondre aux questions <em>(prioritaire)</em></li>
 <li>Voir score</li></ul></ul>
