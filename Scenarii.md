@@ -2,7 +2,7 @@
 <ul><li>Rédacteur</li>
 <ul><li>Créer/Modifier/Supprimer thèmes</li>
 <li>Créer/Modifier/Supprimer questionnaires</li>
-<liCréer/Modifier/Supprimer questions/réponses</li></ul>
+<li>Créer/Modifier/Supprimer questions/réponses</li></ul>
 <li>Membre</li>
 <ul><li>Créer login</li>
 <li>Se loguer</li>
