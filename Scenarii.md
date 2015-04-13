@@ -5,7 +5,7 @@
 <li>Créer/Modifier/Supprimer questions/réponses</li></ul>
 <li>Membre</li>
 <ul><li>Créer login</li>
-<li>Se loguer</li>
+<li>Se loguer/se déloguer</li>
 <li>Choisir thème/niv. diff./Mode</li>
 <li>Voir les questions <em>(prioritaire)</em></li>
 <li>Répondre aux questions <em>(prioritaire)</em></li>
