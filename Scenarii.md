@@ -10,7 +10,7 @@
 <li>Répondre aux questions</li>
 <li>Voir score</li>
 <li>Voir réponses</li></ul>
-<ul><li>Visiteur</li>
-<li>Choisir thème/niv. diff.</li>
+<li>Visiteur</li>
+<ul><li>Choisir thème/niv. diff.</li>
 <li>Répondre aux questions</li>
 <li>Voir score</li></ul></ul>
