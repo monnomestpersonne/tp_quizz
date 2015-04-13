@@ -2,7 +2,7 @@
 
 1. Rédacteur
 
-Créer/Modifier/Supprimer thèmes
+Créer/Modifier/Supprimer thèmes<br>
 Créer/Modifier/Supprimer questionnaires
 Créer/Modifier/Supprimer questions/réponses
 
